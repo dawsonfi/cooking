@@ -6,4 +6,4 @@ permalink: /recipes/
 author_profile: false
 ---
 
-Pick your favourite!
+Escolhe ai

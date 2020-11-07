@@ -1,0 +1,9 @@
+main:
+  - title: "Receitas"
+    url: /recipes/
+  - title: "Categorias"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Sobre"
+    url: /about/

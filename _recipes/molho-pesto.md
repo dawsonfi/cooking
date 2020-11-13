@@ -1,7 +1,7 @@
 ---
 title: "Molho Pesto"
 category:
-  - Molhos
+  - main-course
 tags:
   - Molho
   - Massa

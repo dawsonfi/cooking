@@ -1,7 +1,7 @@
 ---
 title: "Marombinho"
 category:
-  - Maromba
+  - main-course
 tags:
   - Fit
 ---
@@ -44,3 +44,5 @@ tags:
 4. Cubra o purê com o queijo muçarela
 5. Cubra o queijo muçarela com parmesão
 6. Leve ao forno pré aquecido e deixe até gratinar o queijo
+
+![](/assets/images/cooking-banner.jpg)

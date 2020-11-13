@@ -45,4 +45,4 @@ tags:
 5. Cubra o queijo muçarela com parmesão
 6. Leve ao forno pré aquecido e deixe até gratinar o queijo
 
-![](/assets/images/cooking-banner.jpg)
+![](https://raw.githubusercontent.com/dawsonfi/cooking/main/assets/images/marombinho.jpg)

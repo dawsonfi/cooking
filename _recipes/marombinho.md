@@ -6,6 +6,8 @@ tags:
   - Fit
 ---
 
+![](https://raw.githubusercontent.com/dawsonfi/cooking/main/assets/images/marombinho.jpg)
+
 ## Ingredientes
 * 1 cabeça de couve-flor
 * 1/2 xicara de creme de leite fresco
@@ -44,5 +46,3 @@ tags:
 4. Cubra o purê com o queijo muçarela
 5. Cubra o queijo muçarela com parmesão
 6. Leve ao forno pré aquecido e deixe até gratinar o queijo
-
-![](https://raw.githubusercontent.com/dawsonfi/cooking/main/assets/images/marombinho.jpg)
